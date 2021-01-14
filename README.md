@@ -1,2 +1,2 @@
 # Operations
-Operations Program in Assembly
+Operations Program using SUM and SUB.
